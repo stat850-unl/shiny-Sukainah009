@@ -1,6 +1,8 @@
 # Animated and Interactive Graphics
 
 ## Instructions
+https://sukainah.shinyapps.io/sukainah-non-alcoholic-final/
+
 
 Use the [TidyTuesday Cocktail Data](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-05-26/readme.md) to create a shiny applet containing the following:
 
@@ -13,4 +15,4 @@ Once you're satisfied with your applet, upload it to [ShinyApps.io](https://www.
 
 You can find the instructions for deploying your application [here](https://docs.rstudio.com/shinyapps.io/getting-started.html#working-with-shiny-for-r).
 
-When you've deployed your application, edit this README to contain a link to your applet.
+When you've deployed your application, edit this README to contain a link to your applet.https://sukainah.shinyapps.io/sukainah-non-alcoholic-final/
